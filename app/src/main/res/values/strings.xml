@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SQLlite</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1_text">Insert Values</string>
+    <string name="button2_text">Display all values</string>
+    <string name="button3_text">Delete table</string>
+    <string name="Rbutton1_text">Vertical</string>
+    <string name="Rbutton2_text">Horizontal</string>
+    <string name="activity_details">Go back!!</string>
+</resources>
